@@ -21,6 +21,9 @@ conda activate python-learning
 
 # 验证 Python 版本
 python --version
+
+# 安装 jupyter 环境
+conda install jupyter
 ```
 
 ### 3. 安装常用库（可选）
